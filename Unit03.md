@@ -5,7 +5,7 @@
 
 ## 1. 核心觀念 (Core Concepts)
 
-![image (3).png](attachment:d37eec34-4c33-4f38-a7df-d85b8173bec5:image.png)
+![image (3).png](attachment:d37eec34-4c33-4f38-a7df-d85b8173bec5:image(3).png)
 
 ---
 
